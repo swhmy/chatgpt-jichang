@@ -14,6 +14,7 @@
 * 年付：￥588/年，240G/月
 
 推荐指数：⭐⭐⭐⭐⭐
+
 官网入口：[WgetCloud官网](https://j8doba2sodptvzprvmcb.wgetcloud.org/)
 
 ## COCODUCK
@@ -25,6 +26,7 @@
 * 年付：￥77/年，77G/月
 
 推荐指数：⭐⭐⭐⭐
+
 官网入口：[COCODUCK官网](https://cocoduck.cc/)
 
 ## SS-ID
@@ -35,6 +37,7 @@
 * 月付：￥15/月，100G/月
 
 推荐指数：⭐⭐⭐
+
 官网入口：[SS-ID官网](ssid.dggs.org/)
 
 ## CyberGuard
@@ -43,6 +46,8 @@
 
 最低套餐价格：
 * 月付：￥42/月，360G/月
+
+推荐指数：⭐⭐⭐
 
 官网入口：[CyberGuard官网](www.cyberguard.best)
 
