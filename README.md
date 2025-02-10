@@ -38,7 +38,7 @@
 
 推荐指数：⭐⭐⭐
 
-官网入口：[SS-ID官网](ssid.dggs.org/)
+官网入口：[SS-ID官网](https://ssid.dggs.org/)
 
 ## CyberGuard
 
