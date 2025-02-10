@@ -59,8 +59,8 @@
 *  iOS: [Shadowsocks](https://shadowsockshelp.github.io/Shadowsocks/appleid.html)
 
 ## 相关推荐
-[2025年机场推荐](https://swhmy.com/)
-[机场跑路黑名单](https://swhmy.com/blog/paolu)
+* [2025年机场推荐](https://swhmy.com/)
+* [机场跑路黑名单](https://swhmy.com/blog/paolu)
 
 
   
